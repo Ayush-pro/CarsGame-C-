@@ -1,0 +1,7 @@
+This is Car Race Game in which it starts as Console Gaming UI.It has Cars and obstacles in the form of *.
+So, I have some help from youtube to made this basic game console just for fun.
+
+
+Software Requirements:
+IDE: Dev-C++
+Programming Language: C++
